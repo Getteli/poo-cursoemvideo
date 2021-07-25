@@ -1,0 +1,17 @@
+Questionario parte 1 POO:
+
+1  - C = Certo
+2  - A = Certo
+3  - D = Errado. A = Um OBJETO é uma instância de uma classe
+4  - B = Certo
+5  - A = Errado. C = Caracteristica é atributo, Comportamento são Funções / Metodos / Ações
+6  - C = Certo
+7  - C = Certo
+8  - D = Certo
+9  - B = Certo
+10 - B = Certo
+11 - B = Certo
+12 - D = Certo
+13 - D = Certo
+14 - D = Certo
+15 - D = Certo

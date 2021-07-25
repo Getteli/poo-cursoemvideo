@@ -1,0 +1,12 @@
+Questionario parte 3 POO:
+
+1  - C = Certo
+2  - A = Certo
+3  - C = Certo
+4  - D = Errado
+5  - B = Certo
+6  - D = Certo
+7  - C = Certo
+8  - A = Errado : Assinatura diferente não sobrepoem
+9  - B = Certo
+10 - D = Certo

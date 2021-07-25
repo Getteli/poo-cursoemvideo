@@ -1,0 +1,12 @@
+Questionario parte 2 POO:
+
+1  - B = Certo
+2  - B = Certo
+3  - C = Errado : A raiz é Ancestral de sua neta, Então, Sua neta é Descendente de sua Raiz. Descer = Ancestral, Subir = Descendente.
+4  - B = Errado
+5  - A = Certo
+6  - B = Certo
+7  - C = Certo
+8  - D = Certo
+9  - D = Certo
+10 - B = Errado
